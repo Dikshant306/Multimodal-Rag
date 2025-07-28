@@ -1,0 +1,14 @@
+python-dotenv
+ipykernel
+chromadb
+huggingface_hub[hf_xet]
+fastapi
+uvicorn
+plotly
+open-clip-torch
+matplotlib
+datasets
+langchain-community
+langchain-core 
+langchain-openai
+streamlit
